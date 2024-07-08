@@ -1,0 +1,23 @@
+/** @format */
+footer {
+  border-top: solid 1px black !important;
+  padding: 26px 0px 26px !important;
+  z-index: 100;
+  background-color: #F7F4ED;
+  position: relative;
+  
+}
+.footer-container {
+  margin: 0px auto;
+  width: 80%;
+}
+.footer-list ul {
+  display: flex;
+  justify-content: center;
+  column-gap: 15px;
+  font-size: 12px;
+}
+.footer-list ul li {
+  cursor: pointer;
+  color: rgb(95, 92, 92);
+}

@@ -1,0 +1,26 @@
+/** @format */
+header {
+  border-bottom: solid 1px black !important;
+  padding-top: 21px !important;
+  padding-bottom: 15px !important;
+}
+.hedaer-container {
+  width: 80%;
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-right-section {
+  display: flex;
+  align-items: center;
+  column-gap: 30px;
+}
+nav ul {
+  display: flex;
+  column-gap: 18px;
+  font-size: 14px;
+}
+nav ul li {
+  cursor: pointer;
+}

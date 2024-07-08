@@ -1,0 +1,10 @@
+/** @format */
+
+@import url("../../../fonts/font-label.css");
+
+.logo-clas {
+  font-size: 32px;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 900;
+  letter-spacing: -2.5px;
+}
